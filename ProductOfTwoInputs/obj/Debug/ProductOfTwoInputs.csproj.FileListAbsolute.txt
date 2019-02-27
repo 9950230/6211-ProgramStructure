@@ -1,0 +1,7 @@
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProductOfTwoInputs\bin\Debug\ProductOfTwoInputs.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProductOfTwoInputs\bin\Debug\ProductOfTwoInputs.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProductOfTwoInputs\bin\Debug\ProductOfTwoInputs.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProductOfTwoInputs\obj\Debug\ProductOfTwoInputs.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProductOfTwoInputs\obj\Debug\ProductOfTwoInputs.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProductOfTwoInputs\obj\Debug\ProductOfTwoInputs.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProductOfTwoInputs\obj\Debug\ProductOfTwoInputs.csprojAssemblyReference.cache

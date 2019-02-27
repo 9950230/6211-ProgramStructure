@@ -1,0 +1,17 @@
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\obj\Debug\ProgramStructure.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\obj\Debug\ProgramStructure.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\ProgramStructure.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\ProgramStructure.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\ProgramStructure.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\obj\Debug\ProgramStructure.csproj.CopyComplete
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\obj\Debug\ProgramStructure.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\obj\Debug\ProgramStructure.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\MultiplicationTable.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\MultiplicationTable.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\MultiplicationTable.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\SumOfTwoNumbers.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\SumOfTwoNumbers.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\SumOfTwoNumbers.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\ProductOfTwoInputs.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\ProductOfTwoInputs.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ProgramStructure\ProgramStructure\bin\Debug\ProductOfTwoInputs.exe.config
